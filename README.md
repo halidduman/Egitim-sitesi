@@ -9,8 +9,8 @@ Tek sayfadan oluşan bu web sitesi, turuncu ve siyah renkleri kullanılarak tasa
 
 **Logo:**
 
-<p align="center">
-    <img src="img/header-logo.png" alt="Resim Açıklaması" width="400">
+<p align="left">
+    <img src="img/header-logo.png" alt="Resim Açıklaması" width="300">
 </p>
 
 
